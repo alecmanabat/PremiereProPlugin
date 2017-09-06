@@ -1,0 +1,15 @@
+
+p {
+	font-family: "LucidaGrande", sans-serif;
+	color:white;
+	text-align:left;
+	background-color: #232323;
+}
+
+* {
+	background-color: #232323;
+}
+
+button {
+	color:white;
+}
