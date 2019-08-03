@@ -1,5 +1,5 @@
-# PremiereProPlugin
-Custom panel that shows all media used in a video in sequential order
+# WIP PremiereProPlugin
+Custom panel that shows all media used in a video in sequential order. Useful for compilation/clip YouTube channels
 
 Only works with Premiere Pro 2017 due to API restrictions
 
